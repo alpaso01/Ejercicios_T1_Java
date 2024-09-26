@@ -21,7 +21,7 @@ public class Main extends Vehiculo{
              int num1 = 5;
              int num2 = 5;
              int resultado = 0;
-
+            resultado = num1 + num2;
              System.out.println(num1 + " + " + num2 + " = " + resultado);
 
              break;
